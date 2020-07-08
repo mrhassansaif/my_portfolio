@@ -597,7 +597,7 @@ body:after {
     font-size: 3rem; }
   .site-blocks-cover .img-face {
     position: absolute;
-    left: 50%;
+    left: 55%;
     top: 50%;
     -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
